@@ -1,0 +1,74 @@
+body{
+  /*background-image:url('../Images/blue.png');*/
+  background-color: #28c9ed;
+  margin: 0px 0px 0px 0px;
+  font-family:"calibri";
+}
+
+#header{
+  background-color: white;
+  padding-bottom: 20px;
+  text-align: center:
+}
+#header h1{
+  text-align:center;
+  color:grey;
+  letter-spacing:7px;
+  text-decoration:underline;
+}
+#nav{
+  width:60%;
+  margin:auto;
+  text-align: center;
+  }
+
+#nav a{
+  background-color: navy;
+  width:150px;
+  border: solid 2px #329A37;
+  font-size:20px;
+  text-decoration:none;
+  color:white;
+  padding-left:20px;
+  padding-right:20px;
+}
+
+#main{
+  margin:auto;
+  /*border: solid 1px lightgray;*/
+  width: 80%;
+  padding: 5px;
+  margin-top: 5px;
+}
+
+#main h2, #main form{
+  text-align: center;
+}
+
+#main h2
+{
+  text-decoration: underline;
+}
+
+#main table{
+  width:100%;
+  text-align: center;
+  color: black;
+  font-size: 20px
+}
+
+#main table th{
+  background-color: navy;
+  color:white;
+}
+
+.btn{
+  background-color:white;
+  width: 150px;
+  border:solid 2px #329A97;
+  font-size:18px;
+  text-decoration: none;
+  color: navy;
+  padding-left: 10px;
+  padding-right: 10px;
+}
